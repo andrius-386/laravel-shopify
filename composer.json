@@ -27,7 +27,7 @@
         "php": "^8.0 || 8.1",
         "ext-json": "*",
         "funeralzone/valueobjects": "^0.5",
-        "laravel/framework": "^8.0 || ^9.0 || ^10.0 || ^11.0",
+        "laravel/framework": "^8.0 || ^9.0 || ^10.0 || ^11.0 || ^12.0",
         "gnikyt/basic-shopify-api": "^9.0 || ^10.0 || ^11.0"
     },
     "require-dev": {
